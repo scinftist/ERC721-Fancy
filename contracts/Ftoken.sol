@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-import "./ERC721FancyMintEnumRef.sol";
+import "./extensions/ERC721FancyMintEnumRef.sol";
 
 import "OpenZeppelin/openzeppelin-contracts@4.7.0/contracts/access/Ownable.sol";
 import {Base64} from "OpenZeppelin/openzeppelin-contracts@4.7.0/contracts/utils/Base64.sol";

@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-import "./ERC721FancyMintRef.sol";
+import "../ERC721FancyMintRef.sol";
 
 // import "OpenZeppelin/openzeppelin-contracts@4.7.0/contracts/token/ERC721/extensions/IERC721Enumerable.sol";
 
